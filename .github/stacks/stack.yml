@@ -1,6 +1,6 @@
 version: 0.1.0   
 
-name: A stack to deploy nodejs app to Azure
+name: A stack to deploy nodejs app
 description: A stack to deploy nodejs app to Azure app
 
 branding:
